@@ -6,11 +6,11 @@
     <img src="./google-fonts-logo.png" width="400" alt="Google Fonts Logo" />
 </p>
 
-## Description
+## Descripción
 
-A demonstration of a Single Page Application (SPA) using Flexbox for layout and custom styles for design.
+Demostración de una aplicación de una sola página (SPA) utilizando Flexbox para el diseño y estilos personalizados.
 
-## Features
+## Características
 
 - **Single Page Application (SPA)**
 - **HTML5**
@@ -18,11 +18,11 @@ A demonstration of a Single Page Application (SPA) using Flexbox for layout and 
 - **Flexbox**
 - **Google Fonts**
 
-## Required Configuration
+## Configuración Necesaria
 
-- **Open `index.html` in the browser**
+- **Abrir `index.html` en el navegador**
 
-## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Licencia [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The MIT License (MIT)
 
@@ -33,8 +33,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Notes
-
-- This README is also available in Spanish  [here](README-es.md)
-- Este README también está disponible en español  [aquí](README-es.md)
