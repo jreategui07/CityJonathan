@@ -22,6 +22,14 @@ A demonstration of a Single Page Application (SPA) using Flexbox for layout and 
 
 - **Open `index.html` in the browser**
 
+## Demo
+
+Here are some screenshots of the application:
+
+![Screenshot 1](img1.png)
+
+![Screenshot 2](img2.png)
+
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The MIT License (MIT)

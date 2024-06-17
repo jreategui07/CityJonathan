@@ -22,6 +22,14 @@ Demostración de una aplicación de una sola página (SPA) utilizando Flexbox pa
 
 - **Abrir `index.html` en el navegador**
 
+## Demostración
+
+Aquí hay algunas capturas de pantalla de la aplicación:
+
+![Screenshot 1](img1.png)
+
+![Screenshot 2](img2.png)
+
 ## Licencia [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The MIT License (MIT)
